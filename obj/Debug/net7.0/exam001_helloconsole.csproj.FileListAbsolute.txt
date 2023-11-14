@@ -1,0 +1,14 @@
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\bin\Debug\net7.0\exam001_helloconsole.exe
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\bin\Debug\net7.0\exam001_helloconsole.deps.json
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\bin\Debug\net7.0\exam001_helloconsole.runtimeconfig.json
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\bin\Debug\net7.0\exam001_helloconsole.dll
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\bin\Debug\net7.0\exam001_helloconsole.pdb
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\exam001_helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\exam001_helloconsole.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\exam001_helloconsole.AssemblyInfo.cs
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\exam001_helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\exam001_helloconsole.dll
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\refint\exam001_helloconsole.dll
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\exam001_helloconsole.pdb
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\exam001_helloconsole.genruntimeconfig.cache
+C:\Users\Максим\Desktop\geekbrains\exam\exam001_helloconsole\obj\Debug\net7.0\ref\exam001_helloconsole.dll
